@@ -23,7 +23,7 @@ params:
       link: https://cloud.wellsflix.com/apps/dashboard/
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
-  timezoneString: " America/Denver"
+  timezoneString: America/Denver
   logo: /images/WellsFlix.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems

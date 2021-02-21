@@ -1,6 +1,6 @@
 ---
 section: issue
-title: Cloud Unscheduled Outage
+title: Cloud Scheduled Outage
 date: 2021-02-21T08:36:16.568Z
 status: in_progress
 pinned: ""
@@ -13,6 +13,6 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-The WellsFLIX Cloud Server cannot be reached at the moment. We are investigating the matter.
+The WellsFLIX Cloud Server cannot be reached at the moment.
 \
-**Status:** The outage is being investigated.
+**Status:** The outage is being simulated for testing purposes.

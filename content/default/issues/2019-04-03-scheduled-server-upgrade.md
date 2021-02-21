@@ -1,10 +1,10 @@
 ---
 title: PLEX site server upgrade
 
-draft: true
+draft: false
 
 # Full date: 2021-02-22 03:00:00
-date: 2019-04-12
+date: 2021-02-22 03:00:00
 
 # Status: "resolved" | "in_progress" | "scheduled"
 status: "scheduled"

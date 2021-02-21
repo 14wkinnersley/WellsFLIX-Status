@@ -1,23 +1,10 @@
-############################################################
-## Hugo ClearStatus config
-############################################################
-
-# Complete page title
 title: WellsFLIX Systems Status Page
-
-# Language config
+baseURL: https://status.wellsflix.com
 languageCode: en
-
-############################################################
-## More default config. in /config/_default/config.yml
-############################################################
-
-
-############################################################
-## Status default config. Valid for ALL languages.
-############################################################
-
 params:
+  shortDateFormat: 15:04 — Jan 2
+  meta_description: This status page provides updated information about our
+    systems normal operation, incidents that may happen and their resolution.
   systems:
     - name: WellsFLIX Status
       description: WellsFLIX Website
@@ -34,39 +21,16 @@ params:
     - name: Cloud
       description: WellsFLIX Cloud
       link: https://cloud.wellsflix.com/apps/dashboard/
-
-  # dateFormat Default: "January 2, 2006 at 3:04 PM"
-  # shortDateFormat Default: "15:04 — Jan 2"
-  dateFormat: "January 2, 2006 at 3:04 PM"
-  shortDateFormat: "15:04 — Jan 2"
-  # This string will be displayed after each time displayed
-  # Set it for instance to " UTC" to indicate UTC times
-  # or a specific time zone, ie " America/New_York"
-  # You can also instead used a translated string per language
+  dateFormat: January 2, 2006 at 3:04 PM
+  disqusShortname: null
   timezoneString: " America/Denver"
-
-  # Path to logo image from the /static folder.
-  logo: "/images/WellsFlix.png"
-
-  # favicon
-  icon: "/images/Logo.png"
-  iconType: "image/png"
-
-  # Descriptions
-  meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
-  description_footer: "<a class='text-grey-darkest' title='Visit www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX.com</a> provides PLEX Media."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems operations.<br"
-
-  copyrightHolder: "WellsFLIX Inc"
-
-  # Disqus commenting per issue: set your Disqus shortname here
-  # Leave empty for no discussion at all.
-  # You can also enable/disable discussions per issue
-  disqusShortname:
-
-  # Layout
+  logo: /images/WellsFlix.png
+  description_header: Information about <a class='text-grey-darkest' title='Visit
+    www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems
+    operations.<br
+  copyrightHolder: WellsFLIX Inc
   eventsPerPage: 10
-
-############################################################
-## More default config. in /config/_default/params.yml
-############################################################
+  iconType: image/png
+  icon: /images/Logo.png
+  description_footer: <a class='text-grey-darkest' title='Visit www.wellsflix.com'
+    href='https://www.wellsflix.com/'>WellsFLIX.com</a> provides PLEX Media.

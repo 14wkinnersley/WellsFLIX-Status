@@ -52,7 +52,7 @@ params:
   # Descriptions
   meta_description: "This status page provides updated information about our systems normal operation, incidents that may happen and their resolution."
   description_footer: "<a class='text-grey-darkest' title='Visit www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX.com</a> provides PLEX Media."
-  description_header: "Information about <a class='text-grey-darkest' title='Visit www.wellsflix.com' href='https://www.wellsflix.com/'>example</a> systems operations.<br"
+  description_header: "Information about <a class='text-grey-darkest' title='Visit www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems operations.<br"
 
   copyrightHolder: "WellsFLIX Inc"
 

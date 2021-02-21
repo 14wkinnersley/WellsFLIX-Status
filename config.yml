@@ -3,7 +3,7 @@
 ############################################################
 
 # Complete page title
-title: ClearStatus systems status page
+title: WellsFLIX Systems Status Page
 
 # Language config
 languageCode: en
@@ -19,12 +19,18 @@ languageCode: en
 
 params:
   systems:
-    - name: Website
-      description: Our company public facing website
-      link: https://www.example.com/
-    - name: Helpdesk
-      description: Our company customer support site
-      link: https://support.example.com/
+    - name: WellsFLIX Status
+      description: WellsFLIX Website
+      link: https://www.wellsflix.com/
+    - name: Plex
+      description: Plex
+      link: https://plex.wellsflix.com/web/index.html
+    - name: Overseerr
+      description: Overseerr
+      link: https://overseerr.wellsflix.com
+    - name: Unifi
+      description: Unifi
+      link: https://ui.wellsflix.com
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"

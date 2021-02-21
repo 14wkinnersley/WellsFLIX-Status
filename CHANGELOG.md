@@ -1,17 +1,15 @@
 # ClearStatus changelog #
 
-### Build date: 2019-05-16 20:00 ###
+### Build date: 2021-02-21 01:09 ###
 
 <hr />
 
-## Version 2.0.0 (2019-05-16) ##
+## Version 1.0.0 (2021-02-21) ##
 
 **New**
-- Added support for grouping systems and displaying them under collapsible headers
+- WellsFLIX Status Page created.
 - Added changelog
 
 **Changes**
-- Invoke npm install explicitely on Netlify builds, Netlify caching does not handle postCSS
-
-## Version 1.0.0 (2019-05-14) ##
+- 
 

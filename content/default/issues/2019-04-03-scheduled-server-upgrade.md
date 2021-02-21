@@ -1,9 +1,9 @@
 ---
-title: Main site server upgrade
+title: PLEX site server upgrade
 
 draft: true
 
-# Full date: 2019-03-29 17:26:09
+# Full date: 2021-02-22 03:00:00
 date: 2019-04-12
 
 # Status: "resolved" | "in_progress" | "scheduled"
@@ -16,7 +16,7 @@ status: "scheduled"
 pinned: 
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 5mn
+duration: 15mn
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
@@ -31,7 +31,7 @@ resolved_on:
 
 # Affected components, must use exact names defined in site config
 affected:
-  - Site
+  - Plex
 
 # If set and the status is in_progress, this feed will be embedded
 # in the event display. Leave empty for no Twitter feed.
@@ -73,9 +73,9 @@ section: issue
 ## Enter below issue description and subsequent updates if any
 ---
 
-Our hosting company needs to perform some software updates on our main website server. These updates require restarting the machine which implies some downtime.
+The Plex owner needs to perform some software updates on our main Plex server. These updates require restarting the machine which implies some downtime.
 \
-This maintenance should not last more than a few minutes or cause any other perturbation.
+This maintenance should not last more than 15 minutes or cause any other perturbation.
 \
 Sorry about the trouble!
 \

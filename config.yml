@@ -31,6 +31,9 @@ params:
     - name: Unifi
       description: Unifi
       link: https://ui.wellsflix.com
+    - name: Cloud
+      description: WellsFLIX Cloud
+      link: https://cloud.wellsflix.com/apps/dashboard/
 
   # dateFormat Default: "January 2, 2006 at 3:04 PM"
   # shortDateFormat Default: "15:04 — Jan 2"

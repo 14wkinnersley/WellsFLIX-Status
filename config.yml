@@ -9,18 +9,23 @@ params:
     - name: WellsFLIX Status
       description: WellsFLIX Website
       link: https://www.wellsflix.com/
+      group: Services
     - name: Plex
       description: Plex
       link: https://plex.wellsflix.com/web/index.html
+      group: Services
     - name: Overseerr
       description: Overseerr
       link: https://overseerr.wellsflix.com
+      group: Services
     - name: Unifi
       description: Unifi
       link: https://ui.wellsflix.com
+      group: Network
     - name: Cloud
       description: WellsFLIX Cloud
       link: https://cloud.wellsflix.com/apps/dashboard/
+      group: Services
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"

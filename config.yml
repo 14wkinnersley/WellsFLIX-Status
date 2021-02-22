@@ -26,6 +26,14 @@ params:
       description: WellsFLIX Cloud
       link: https://cloud.wellsflix.com/apps/dashboard/
       group: Services
+    - name: XMission (ISP)
+      group: Network
+      description: XMission Provides WellsFLIX with Internet.
+      link: https://status.xmission.com/
+    - name: UTOPIA
+      group: Network
+      description: UTOPIA Provides the Backbone Fiber Connection to WellsFLIX
+      link: https://twitter.com/utopia_status?lang=en
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"

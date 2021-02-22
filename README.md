@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e97e0a9c-830b-41f3-a565-f6a6affc43d8/deploy-status)](https://app.netlify.com/sites/friendly-yalow-c4d93e/deploys)
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/61vk.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 <p align="center"><img src="https://cdn.weeblrpress.net/clearstatus/assets/images/clearstatus-200.svg" alt="ClearStatus Logo"></p>
 

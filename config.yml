@@ -6,7 +6,7 @@ params:
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
   systems:
-    - name: WellsFLIX Status
+    - name: WellsFLIX Website
       description: WellsFLIX Website
       link: https://www.wellsflix.com/
       group: Services

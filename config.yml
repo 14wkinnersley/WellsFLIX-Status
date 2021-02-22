@@ -41,7 +41,7 @@ params:
       group: Infrastructure
       description: Cooling for the WellsFLIX Server Stacks, and Networking Equipment
   dateFormat: January 2, 2006 at 3:04 PM
-  disqusShortname: wellsflix
+  disqusShortname: wellsflix.disqus.com
   timezoneString: " UTC"
   logo: /images/WellsFlix.png
   description_header: Information about <a class='text-grey-darkest' title='Visit

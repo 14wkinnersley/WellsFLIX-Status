@@ -31,6 +31,9 @@ params:
   copyrightHolder: WellsFLIX Inc
   eventsPerPage: 10
   iconType: image/png
+  groups:
+    - Services
+    - Network
   icon: /images/Logo.png
   description_footer: <a class='text-grey-darkest' title='Visit www.wellsflix.com'
     href='https://www.wellsflix.com/'>WellsFLIX.com</a> provides PLEX Media.

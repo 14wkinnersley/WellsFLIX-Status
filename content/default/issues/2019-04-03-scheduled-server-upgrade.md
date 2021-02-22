@@ -3,7 +3,7 @@ draft: false
 section: issue
 title: PLEX site server upgrade
 date: 2021-02-22 03:00:00
-status: scheduled
+status: resolved
 pinned: belowheader
 current_severity: maintenance
 max_severity: down

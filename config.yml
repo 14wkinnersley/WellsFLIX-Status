@@ -19,7 +19,7 @@ params:
       link: https://overseerr.wellsflix.com
       group: Services
     - name: Unifi
-      description: Unifi
+      description: Unifi is the WellsFLIX Primary Router
       link: https://ui.wellsflix.com
       group: Network
     - name: Cloud

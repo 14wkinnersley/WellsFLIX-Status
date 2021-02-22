@@ -5,7 +5,7 @@ params:
   shortDateFormat: 15:04 — Jan 2
   meta_description: This status page provides updated information about our
     systems normal operation, incidents that may happen and their resolution.
-  services:
+  systems:
     - name: WellsFLIX Status
       description: WellsFLIX Website
       link: https://www.wellsflix.com/

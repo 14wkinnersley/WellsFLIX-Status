@@ -34,6 +34,12 @@ params:
       group: Network
       description: UTOPIA Provides the Backbone Fiber Connection to WellsFLIX
       link: https://twitter.com/utopia_status?lang=en
+    - name: Power
+      group: Infrastructure
+      description: Power for the WellsFLIX Server Stacks, and Networking Equipment
+    - name: Cooling
+      group: Infrastructure
+      description: Cooling for the WellsFLIX Server Stacks, and Networking Equipment
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: null
   timezoneString: " UTC"

@@ -20,7 +20,7 @@ params:
       group: Services
     - name: Unifi
       description: Unifi is the WellsFLIX Primary Router
-      link: https://ui.wellsflix.com
+      link: ""
       group: Network
     - name: Cloud
       description: WellsFLIX Cloud

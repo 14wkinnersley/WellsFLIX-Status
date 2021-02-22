@@ -5,7 +5,7 @@ title: PLEX site server upgrade
 date: 2021-02-22 03:00:00
 status: scheduled
 pinned: belowheader
-current_severity: down
+current_severity: maintenance
 max_severity: down
 duration: 15mn
 resolved_on: null

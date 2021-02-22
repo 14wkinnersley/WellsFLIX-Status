@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e97e0a9c-830b-41f3-a565-f6a6affc43d8/deploy-status)](https://app.netlify.com/sites/friendly-yalow-c4d93e/deploys)
+
 <p align="center"><img src="https://cdn.weeblrpress.net/clearstatus/assets/images/clearstatus-200.svg" alt="ClearStatus Logo"></p>
 
 <p align="center"><a title="ClearStatus intro video link" href="https://www.youtube.com/watch?v=wFF2OBPfalQ"><img src="https://img.youtube.com/vi/wFF2OBPfalQ/0.jpg" alt="ClearStatus status page intro video"></a></p>

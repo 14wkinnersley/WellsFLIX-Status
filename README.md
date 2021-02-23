@@ -1,12 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e97e0a9c-830b-41f3-a565-f6a6affc43d8/deploy-status)](https://app.netlify.com/sites/friendly-yalow-c4d93e/deploys)
 [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/61vk.svg)](https://betteruptime.com/?utm_source=status_badge)
 
-<p align="center"><img src="https://cdn.weeblrpress.net/clearstatus/assets/images/clearstatus-200.svg" alt="ClearStatus Logo"></p>
-
-<p align="center"><a title="ClearStatus intro video link" href="https://www.youtube.com/watch?v=wFF2OBPfalQ"><img src="https://img.youtube.com/vi/wFF2OBPfalQ/0.jpg" alt="ClearStatus status page intro video"></a></p>
-<p align="center">Click image to view intro video</p>
-<p align="center">We also have a <a href="https://www.youtube.com/watch?v=f6gM84hD9Ug" title="ClearStatus setup and usage video link">full setup and usage video here.</a></p>
-
 # ClearStatus - Professional status page - 5 minutes - Free
 
 You run a website or an app? Have one or more systems your customers/community depends on? if something goes wrong and your site is down, we think what matters most is that you are able to communicate clearly and easily with your users: be transparent about the problem, what you do to solve it and when you're or will be back online.

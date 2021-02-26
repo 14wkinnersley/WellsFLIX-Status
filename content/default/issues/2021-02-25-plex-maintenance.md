@@ -3,7 +3,7 @@ section: issue
 title: PLEX Maintenance
 date: 2021-02-26T10:00:00.000Z
 status: resolved
-pinned: belowheader
+pinned: null
 current_severity: ok
 max_severity: down
 duration: 10 Minutes

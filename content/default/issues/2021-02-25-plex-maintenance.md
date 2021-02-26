@@ -13,4 +13,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-PLEX will perform an upgrade on 26FEB2020 at 0300 MST. The system will be unavailable for 10 minutes while the update is performed.
+PLEX performed an upgrade on 26FEB2020 at 0300 MST. The system was unavailable for 10 minutes while the update was performed.

@@ -1,12 +1,12 @@
 ---
 section: issue
 title: All Applications Outage
-date: 2021-03-03T21:00:00.000Z
+date: 2021-03-03T20:20:00.000Z
 status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
-duration: 52mn
+duration: 1h 32mn
 resolved_on: 2021-03-03T21:52:37.092Z
 affected:
   - WellsFLIX Website

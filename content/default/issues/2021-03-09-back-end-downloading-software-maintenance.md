@@ -2,12 +2,12 @@
 section: issue
 title: Back End Downloading Software Maintenance
 date: 2021-03-09T15:31:12.500Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: maintenance
+current_severity: ok
 max_severity: down
 duration: 1hr
-resolved_on: ""
+resolved_on: 2021-03-09T16:02:00.345Z
 affected:
   - Overseerr
 twitterFeed: ""

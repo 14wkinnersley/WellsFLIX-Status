@@ -6,7 +6,7 @@ status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
-duration: 20mn
+duration: 1hour, 34mn
 resolved_on: 2021-03-16T05:06:00.000Z
 affected:
   - Plex

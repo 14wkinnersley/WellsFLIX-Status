@@ -7,7 +7,7 @@ pinned: ""
 current_severity: ok
 max_severity: down
 duration: 5mn
-resolved_on: 2021-03-27T09:05:00.000Z
+resolved_on: ""
 affected:
   - Plex
 twitterFeed: ""

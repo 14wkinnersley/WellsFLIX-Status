@@ -2,12 +2,12 @@
 section: issue
 title: PLEX Maintenance
 date: 2021-03-27T03:00:00.000Z
-status: scheduled
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
 duration: 5mn
-resolved_on: ""
+resolved_on: 2021-03-27T03:05:00.000Z
 affected:
   - Plex
 twitterFeed: ""

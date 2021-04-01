@@ -3,7 +3,7 @@ section: issue
 title: WellsFLIX Maintenance
 date: 2021-04-06T16:00:00.000Z
 status: scheduled
-pinned: belowheader
+pinned: null
 current_severity: ok
 max_severity: down
 duration: 4 hours

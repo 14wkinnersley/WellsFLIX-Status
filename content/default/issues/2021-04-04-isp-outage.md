@@ -7,7 +7,7 @@ pinned: null
 current_severity: ok
 max_severity: down
 duration: 52mn
-resolved_on: 2021-04-05T05:39:00.000Z
+resolved_on: 2021-04-04T23:39:00.000Z
 affected:
   - XMission (ISP)
   - UTOPIA

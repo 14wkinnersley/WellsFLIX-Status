@@ -20,4 +20,4 @@ enableComments: true
 ---
 Initial Incident Summary: WellsFLIX was in an Outage due to an issue with the Internet Service Provider (ISP).
 
-Status: The ISP (XMission) found their DHCP server was unavailable and restored services. WellsFLIX has confirmed that all services have been restored.
+Status: The ISP (XMission) found their DHCP server was unavailable; and after investigation it was found to be caused by a resource conflict between the two virtual machines. Technicians were able to remediate the conflict, restoring services. WellsFLIX has confirmed that all services have been restored.

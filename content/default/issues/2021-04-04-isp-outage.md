@@ -18,4 +18,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-WellsFLIX is currently in an Outage due to an issue with the Internet Service Provider (ISP). The ISP (XMission and Utopia) are currently engaged and investigating.
+WellsFLIX is currently in an Outage due to an issue with the Internet Service Provider (ISP). The ISP (XMission) has found the DHCP server is unavailable, and are currently working to restore services.

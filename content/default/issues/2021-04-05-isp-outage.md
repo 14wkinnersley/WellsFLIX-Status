@@ -19,6 +19,4 @@ enableComments: true
 ---
 Initial Incident Summary: WellsFLIX Internet Service Provider (ISP) XMission is experiencing an Outage
 
-
-
-Status: XMission, and UTOPIA are engaged to determine the issue.
+Status: XMission is performing additional work on their DHCP servers in response to the Outage on April 4, 2021 at 4:47PM MST. ETR is unknown at this time.

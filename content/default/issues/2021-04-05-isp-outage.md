@@ -4,7 +4,7 @@ title: ISP Outage
 date: 2021-04-04T20:53:00.000Z
 status: in_progress
 pinned: ""
-current_severity: down
+current_severity: disrupted
 max_severity: down
 duration: ""
 resolved_on: ""

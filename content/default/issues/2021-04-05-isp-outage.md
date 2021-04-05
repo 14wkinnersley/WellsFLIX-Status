@@ -7,7 +7,7 @@ pinned: ""
 current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: 2021-04-05T19:34:56.475Z
+resolved_on: 2021-04-05T14:34:00.000Z
 affected:
   - Plex
   - Overseerr

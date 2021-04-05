@@ -2,12 +2,12 @@
 section: issue
 title: WellsFLIX Maintenance
 date: 2021-04-05T14:00:00.000Z
-status: in_progress
+status: resolved
 pinned: null
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: 6 hours
-resolved_on: ""
+resolved_on: 2021-04-05T17:49:00.000Z
 affected:
   - WellsFLIX Website
   - Plex
@@ -18,4 +18,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-WellsFLIX will be performing maintenance on the systems that host WellsFLIX. All systems will be pulled from the racks to perform cleaning, upgrading, and re-arranging. This maintenance is expected to last 4 hours.
+**Status:** WellsFLIX performed maintenance on the systems that host WellsFLIX. All the systems were pulled from the rack, cleaned, upgraded, and organized. The maintenance is complete, and all systems are confirmed operational.

@@ -13,6 +13,7 @@ affected:
   - Overseerr
   - Unifi
   - XMission (ISP)
+  - Cloud
 twitterFeed: ""
 enableComments: true
 ---

@@ -2,15 +2,15 @@
 section: issue
 title: PLEX Outage
 date: 2021-04-08T20:22:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: ""
+resolved_on: 2021-04-08T20:33:00.000Z
 affected:
   - Plex
 twitterFeed: ""
 enableComments: true
 ---
-The PLEX System Host has crashed. WellsFLIX is in the process of bringing up the host.
+The PLEX System Host crashed. After investigation, it was found that PCIe card 2 had failed causing the system to crash hard. WellsFLIX re-seated the PCIe card, and the system booted as normal. The system will be monitored to ensure there is no re-occurrences.

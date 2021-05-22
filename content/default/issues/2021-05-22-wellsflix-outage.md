@@ -2,12 +2,12 @@
 section: issue
 title: WellsFLIX Outage
 date: 2021-05-22T10:55:16.015Z
-status: in_progress
+status: resolved
 pinned: ""
-current_severity: down
+current_severity: ok
 max_severity: down
 duration: ""
-resolved_on: ""
+resolved_on: 2021-05-22T17:46:36.837Z
 affected:
   - Plex
   - Overseerr
@@ -18,4 +18,4 @@ affected:
 twitterFeed: ""
 enableComments: true
 ---
-WellsFLIX is currently down due to a power outage. Rocky Mountain Power has been notified and is investigating.
+WellsFLIX was down due to a power outage. Rocky Mountain Power has resolved the issue.

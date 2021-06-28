@@ -2,7 +2,7 @@
 section: issue
 title: WellsFLIX Homepage Change
 date: 2021-06-28T06:00:32.606Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: maintenance

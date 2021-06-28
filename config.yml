@@ -42,7 +42,7 @@ params:
       description: Cooling for the WellsFLIX Server Stacks, and Networking Equipment
   dateFormat: January 2, 2006 at 3:04 PM
   disqusShortname: wellsflix
-  timezoneString: " MDT"
+  timezoneString: America/Denver
   logo: /images/WellsFlix.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems

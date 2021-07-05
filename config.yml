@@ -44,12 +44,9 @@ params:
   disqusShortname: wellsflix
   timezoneString: " America/Denver"
   logo: /images/WellsFlix.png
-  description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit
+  description_header: Information about <a class='text-grey-darkest' title='Visit
     www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems
-    operations.
-
-    To contact WellsFLIX please email here! <a href="mailto:wells@wellsflix.com">Email</a>.<br>
+    operations.<br>
   copyrightHolder: WellsFLIX
   eventsPerPage: 10
   iconType: image/png

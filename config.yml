@@ -46,7 +46,8 @@ params:
   logo: /images/WellsFlix.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
     wellsflix.com' href='https://wellsflix.com/'>WellsFLIX</a> systems
-    operations.<br
+    operations.<br Need Help? Contact WellsFLIX Here! <a
+    href="mailto:wells@wellsflix.com">wells@wellsflix.com</a>.<br>
   copyrightHolder: WellsFLIX
   eventsPerPage: 10
   iconType: image/png

@@ -45,8 +45,8 @@ params:
   timezoneString: " America/Denver"
   logo: /images/WellsFlix.png
   description_header: Information about <a class='text-grey-darkest' title='Visit
-    www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems
-    operations.<br>
+    wellsflix.com' href='https://wellsflix.com/'>WellsFLIX</a> systems
+    operations.<br
   copyrightHolder: WellsFLIX
   eventsPerPage: 10
   iconType: image/png

@@ -47,9 +47,9 @@ params:
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit
     www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems
-    operations.<br
+    operations.
 
-    To contact WellsFLIX please email <a class='text-grey-darkest' title=wells@wellsflix.com href='wells@wellsflix.com'>wells@wellsflix.com</a>. <br
+    To contact WellsFLIX please email <a class='text-grey-darkest' title=wells@wellsflix.com href='wells@wellsflix.com'>wells@wellsflix.com</a>.<br
   copyrightHolder: WellsFLIX
   eventsPerPage: 10
   iconType: image/png

@@ -49,7 +49,7 @@ params:
     www.wellsflix.com' href='https://www.wellsflix.com/'>WellsFLIX</a> systems
     operations.<br
 
-    To contact WellsFLIX please email wells@wellsflix.com. <br
+    To contact WellsFLIX please email <a class='text-grey-darkest' title=wells@wellsflix.com href='wells@wellsflix.com'>wells@wellsflix.com</a>. <br
   copyrightHolder: WellsFLIX
   eventsPerPage: 10
   iconType: image/png
